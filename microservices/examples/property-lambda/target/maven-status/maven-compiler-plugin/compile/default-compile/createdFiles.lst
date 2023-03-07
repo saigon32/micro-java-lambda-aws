@@ -1,0 +1,4 @@
+course/microservices/property/entities/Property.class
+course/microservices/property/business/PropertyService.class
+course/microservices/property/lambda/PropertyLambda.class
+course/microservices/property/data_access/PropertyGateway.class
